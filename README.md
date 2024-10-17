@@ -14,7 +14,7 @@ A simple REST API for managing books, built with Flask and documented with Swagg
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/book-api.git
+git clone https://github.com/manohosny/lab_3.git
 cd book-api
 ```
 
