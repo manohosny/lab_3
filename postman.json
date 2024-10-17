@@ -98,7 +98,7 @@
 	"variable": [
 		{
 			"key": "baseUrl",
-			"value": "http://localhost:5001/api"
+			"value": "http://127.0.0.1:5000/api"
 		}
 	]
 }
